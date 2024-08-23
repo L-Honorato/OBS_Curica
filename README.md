@@ -3,6 +3,8 @@ Este é o repositório do Observatório Curica, um projeto desenvolvido pela Pro
 
 O Observatório Curica 
 
-[![Legenda](url da img)](url para a pagina)]	
+![Legenda](url da img)
 
-![Diagrama do Observatório Curica](https://github.com/L-Honorato/OBS_Curica/blob/main/curica_DER_dark.png)
+![Diagrama](https://github.com/L-Honorato/OBS_Curica/blob/main/curica_DER_dark.png)
+
+
