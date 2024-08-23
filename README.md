@@ -8,7 +8,7 @@ O Observatório Curica
 
 ### Sintaxe markdown
 
-* imagem
+* imagem  
 ![Legenda](url da img)
 
 * citação
