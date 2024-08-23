@@ -5,4 +5,4 @@ O Observatório Curica
 
 [![Legenda](url da img)](url para a pagina)]	
 
-[![Diagrama do Observatório Curica](https://github.com/L-Honorato/OBS_Curica/blob/main/curica_DER_dark.png)]
+![Diagrama do Observatório Curica](https://github.com/L-Honorato/OBS_Curica/blob/main/curica_DER_dark.png)
