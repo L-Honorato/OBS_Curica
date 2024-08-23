@@ -16,3 +16,15 @@ O Observatório Curica
 
 
 
+classDiagram
+    class Pato{
+     -peso
+      +nada()
+      +quack()
+    }
+
+
+sequenceDiagram
+    participant dotcom
+    participant iframe
+    dotcom->>iframe: carrega html com url do iframe
