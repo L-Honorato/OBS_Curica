@@ -34,15 +34,20 @@ A seleção das políticas públicas educacionais priorizadas pelo Observatório
 Nominalmente referenciados, os problemas selecionados podem parecer similares para todo o Brasil ou, mesmo, para a Amazônia. Entretanto, a análise dos dados e ações subsequentes devem levar em consideração as especialidades socioambientais da amazônia acreana, que apresenta uma diversidade cultural ímpar e uma geografia peculiar que a distingue de outras "amazônias" ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)].
 
 ### Contextualização
-
+O Estado do Acre possui uma área de 164.221 km², território maior que o da Inglaterra ou quase 7 vezes a área de Israel. Localiza-se na Amazônia Sul-Ocidental, região das nascentes dos rios das bacias hidrográficas do rio Purus e do rio Juruá. É palco de uma das maiores sociobiodiversidades do planeta. Esse espaço acolhe grandes centros urbanos, unidades de conservação, reservas extrativistas, projetos de assentamento do INCRA, populações tradicionais indígenas e não indígenas.
 
 ### Água potável
 
 
 ### Alimentação escolar
-O direito à alimentação escolar no ensino público está previsto na Lei de Diretrizes e Bases da Educação ([LDB](https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm)) como responsabilidade do sistema respectivo de ensino, estadual ou municipal. A União tem papel de colaboração e de complementação nesta política e, para tal, há o Programa Nacional de Alimentação Escolar, o PNAE, que repassa recursos aos Municípios para aquisição de alientação escolar. Este programa é regido pela [Resolução FNDE nº 06/2020](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2020/resolucao-no-6-de-08-de-maio-de-2020/view) que, entre outros requisitos, determina a obrigatoriedade de aquisição de alimentos produzidos diretamente pela agricultura familiar em, no mínimo, 30% do valor total do repasse anual.
+O direito à alimentação escolar no ensino público está previsto na Lei de Diretrizes e Bases da Educação ([LDB](https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm)) como responsabilidade do sistema respectivo de ensino, estadual ou municipal. A União tem papel de colaboração e de complementação nesta política e, para tal, há o Programa Nacional de Alimentação Escolar, o PNAE. Trata-se de uma política pública que repassa recursos federais diretamente para a rede pública de ensino estadual e municipal para aquisição de alimentação escolar e é regulamentada pela [Lei 11.947/2009](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm) e pela [Resolução FNDE nº 06/2020](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2020/resolucao-no-6-de-08-de-maio-de-2020/view). Embora ele esteja dentro da estrutura administrativa educacional, o programa também integra o Sistema Nacional de Segurança Alimentar [(Lei 11.346/2009)](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11346.htm) e a Política Nacional da Agricultura Familiar [(Lei 11.326/2006)](https://www.planalto.gov.br/ccivil_03/%5C_ato2004-2006/2006/lei/l11326.htm). Especialmente com relação à agricultura familiar, a lei 11.947/2009 estabelece que, do total dos recursos repassados pelo PNAE, no mínimo 30% devem ser utilizados na aquisição de gêneros alimentícios provenientes da agricultura familiar. Além dos recursos provenientes do PNAE, também é dever de Estados e Municípios arcarem com a contrapartida financeira necessária para implementação da política de alimentação escolar das respectivas redes de ensino. 
+
+
+
+
+
 Esta regra tem o potencial de impactar positivamente tanto a qualidade da alimentação escolar como um todo como, também, as famílias agricultoras envolvidas no processo.
-Para alcançar seus objetivos, esta política pública deve ser contextualizada para a realidade da amazônia acreana. O Estado do Acre possui uma área de 152.581 km², próxima à soma das áreas de Portugal e Hungria. 
+Para alcançar seus objetivos, esta política pública deve ser contextualizada para a realidade da amazônia acreana. 
 
 ### Transporte escolar
 
