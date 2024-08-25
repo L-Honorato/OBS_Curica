@@ -31,10 +31,10 @@ O coletivo Jibó_IA é outro projeto desenvolvido dentro da Promotoria que procu
 
 ## Políticas públicas de interesse
 A seleção das políticas públicas educacionais priorizadas pelo Observatório decorre dos problemas mais frequentes trazidos à Promotoria pelas comunidades escolares, tanto das zonas urbanas quanto das zonas rurais/florestais.
-Nominalmente referenciados, os problemas selecionados podem parecer similares para todo o Brasil ou, mesmo, para a Amazônia. Entretanto, a análise dos dados e ações subsequentes devem levar em consideração as especialidades socioambientais da amazônia acreana, que apresenta uma diversidade cultural ímpar e uma geografia peculiar que a distingue de outras "amazônias" ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)].
+Nominalmente referenciados, os problemas selecionados podem parecer similares para todo o Brasil ou, mesmo, para a Amazônia. Entretanto, a análise dos dados e ações subsequentes devem levar em consideração as especialidades socioambientais da amazônia acreana, que apresenta uma diversidade cultural ímpar e uma geografia peculiar que a distingue de outras "amazônias" ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)).
 
 ### Contextualização
-O Estado do Acre possui uma área de 164.221 km², território maior que o da Inglaterra ou quase 7 vezes a área de Israel. Localiza-se na Amazônia Sul-Ocidental, região das nascentes dos rios das bacias hidrográficas do rio Purus e do rio Juruá. É palco de uma das maiores sociobiodiversidades do planeta. Esse espaço acolhe grandes centros urbanos, unidades de conservação, reservas extrativistas, projetos de assentamento do INCRA, populações tradicionais indígenas e não indígenas.
+O Estado do Acre possui uma área de 164.221 km², território maior que o da Inglaterra ou quase 7 vezes a área de Israel. Localiza-se na Amazônia Sul-Ocidental, região das nascentes dos rios das bacias hidrográficas do rio Purus e do rio Juruá. É palco de uma das maiores sociobiodiversidades do planeta. Esse espaço acolhe grandes centros urbanos, unidades de conservação, reservas extrativistas, projetos de assentamento do INCRA, populações tradicionais indígenas e não indígenas ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)).
 
 ### Água potável
 
