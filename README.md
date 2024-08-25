@@ -14,15 +14,37 @@ Este trocadilho presta homenagem aos povos originários da Amazônia, ao mesmo t
 
 Com este trocadilho que presta homenagem aos povos originários, o Observatório Curica é um primeiro passo na otimização de obtenção e disponibilização de informação a respeito de políticas públicas voltadas à educação escolar pública no Estado do Acre.
 
+## Fontes dos dados
+O Observatório prioriza a utilização de fontes de dados abertas e oficiais. Serão utilizados dados do censo escolar, programas do fnde, ibge, cadúnico, sigpc, simec e publicações do diário oficial.
+
 ## Diagrama das ações do Observatório
 O diagrama abaixo busca expressar as ações meio e fim que serão executadas dentro o Observatório para diagnóstico e intervenção, bem como para democratização da informação sobre as políticas públicas.
 
 ![Diagrama](https://github.com/L-Honorato/OBS_Curica/blob/main/curica_DER_dark.png)
 
-Este diagrama é serve também como layout para o futuro website onde as informações serão disponibilizadas ao público.
+Este diagrama serve também como layout para o futuro website onde as informações serão disponibilizadas ao público.
 
-### Fontes dos dados
-O Observatório prioriza a utilização de fontes de dados abertas e oficiais. Serão utilizados dados do censo escolar, programas do fnde, ibge, cadúnico, sigpc e simec.
+## Coletivo Jibó_IA
+O coletivo Jibó_IA é outro projeto desenvolvido dentro da Promotoria que procura desenvolver soluções que buscam o aumento da eficência por meio de automação de processos, elaboração de diagnósticos e monitoramento, fazendo uso dos recursos oferecidos pela ciência de dados e *machine learning*.
+
+## Políticas públicas de interesse
+A seleção das políticas públicas educacionais priorizadas pelo Observatório decorre dos problemas mais frequentes trazidos à Promotoria pelas comunidades escolares, tanto das zonas urbanas quanto das zonas rurais/florestais.
+Nominalmente referenciados, os problemas selecionados podem parecer similares para todo o Brasil ou, mesmo, para a Amazônia. Entretanto, a análise dos dados e ações subsequentes devem levar em consideração as especialidades socioambientais da amazônia acreana, que apresenta uma diversidade cultural ímpar e uma geografia peculiar que a distingue de outras "amazônias" ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)].
+
+### Alimentação escolar
+
+### Água potável
+
+### Transporte escolar
+
+### Metas do PNE
+
+### Recursos Humanos
+
+### Infraestrutura
+
+### Mapa
+
 
 
 
