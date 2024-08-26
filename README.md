@@ -33,12 +33,11 @@ A seleção das políticas públicas educacionais priorizadas pelo Observatório
 Nominalmente referenciados, os problemas selecionados podem parecer similares para todo o Brasil ou, mesmo, para a Amazônia. Entretanto, a análise dos dados e ações subsequentes devem levar em consideração as especialidades socioambientais da amazônia acreana, que apresenta uma diversidade cultural ímpar e uma geografia peculiar que a distingue de outras "amazônias" ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)).  
   
 ### Contextualização
-O Estado do Acre possui uma área de 164.221 km², território maior que o da Inglaterra ou quase 7 vezes a área de Israel. Localiza-se na Amazônia Sul-Ocidental, região das nascentes dos rios das bacias hidrográficas do rio Purus e do rio Juruá. É palco de uma das maiores sociobiodiversidades do planeta. Esse espaço acolhe grandes centros urbanos, unidades de conservação, reservas extrativistas, projetos de assentamento do INCRA, populações tradicionais indígenas e não indígenas ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)).  
+O Estado do Acre possui uma área de 164.221 km², território maior que o da Inglaterra ou quase 7 vezes a área de Israel. Localiza-se na Amazônia Sul-Ocidental, região das nascentes dos rios das bacias hidrográficas do rio Purus e do rio Juruá, afluentes do rio Amazonas. É palco de uma das maiores sociobiodiversidades do planeta. Esse espaço acolhe grandes centros urbanos, unidades de conservação, reservas extrativistas, projetos de assentamento do INCRA, populações tradicionais indígenas e não indígenas ([ZEE Acre](https://sema.ac.gov.br/zee-acre/#:~:text=O%20Zoneamento%20Ecol%C3%B3gico%2DEcon%C3%B4mico%20do,06%20de%20abril%20de%201999.)).  
   
 O deslocamento dessas populações se dá por via terrestre, fluvial ou aérea. Esses meios de transporte são diretamente influenciados pelo clima: no período chuvoso, os rios estão cheios e o transporte fluvial é favorecido. Por outro lado, o transporte terrestre fica prejudicado em razão da precariedade das estradas. Na estação seca, ao contrário, fica favorecido o transporte terrestre e a navegação é afetada.  O transporte aéreo é uma alternativa a esses outros, entre centros urbanos.
   
-Os rios da região são sinuosos, estreitos e rasos, se comparados com o volume 
-
+Os rios da região são sinuosos, estreitos e rasos, se comparados com o volume ([SEMA](https://www.fundoamazonia.gov.br/export/sites/default/pt/.galleries/documentos/acervo-projetos-cartilhas-outros/Acre-VAAF-Caderno-Unid_Gestao_Recursos_Hidricos.pdf))
   
 ### Água potável
 
