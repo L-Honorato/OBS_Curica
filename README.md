@@ -25,7 +25,7 @@ O diagrama abaixo busca expressar as ações meio e fim que serão executadas de
 Este diagrama serve também como layout para o futuro website onde as informações serão disponibilizadas ao público.  
   
 ## Coletivo Jibó_IA
-O coletivo Jibó_IA é outro projeto desenvolvido dentro da Promotoria que busca implementar soluções que buscam o aumento da eficência do serviço público prestado pela Promotoria, por meio do desenvolvimento de soluções para automação de processos, elaboração de diagnósticos e monitoramento, fazendo uso dos recursos oferecidos pela ciência de dados e *machine learning*.  
+O coletivo Jibó_IA é outro projeto desenvolvido dentro da Promotoria que busca implementar XXXsoluções que incrementem a eficência do serviço público prestado pela Promotoria, por meio do desenvolvimento de XXXsoluções para automação de processos, elaboração de diagnósticos e monitoramento, fazendo uso dos recursos oferecidos pela ciência de dados e *machine learning*.  
   
 ## Políticas públicas de interesse
 A seleção das políticas públicas educacionais priorizadas pelo Observatório decorre dos problemas mais frequentes trazidos à Promotoria pelas comunidades escolares, tanto das zonas urbanas quanto das zonas rurais/florestais.  
