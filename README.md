@@ -38,6 +38,10 @@ O deslocamento dessas populações se dá por via terrestre, fluvial ou aérea. 
 As políticas públicas educacionais enfrentam esses mesmos desafios logísticos e climáticos, pois estão dispersas e devem ser implementadas em toda essa extensão territorial. Surgem, portanto, dificuldades para a construção de infraestrutura, sanemento básico e disponibilização de água potável, lotação de recursos humanos, fornecimento de alimentação escolar, materiais didáticos e materiais de expediente, transporte escolar de alunos e professores, acompanhamento pedagógico e gastos com combustível.
     
 ### Água potável  
+É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária. As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a utilização de águas provenientes dos rios e igarapés ou de poços rasos, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar.
+
+Há um programa 
+
 
 censo escolar vs. inepdata
 
