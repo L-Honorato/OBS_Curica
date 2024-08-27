@@ -1,6 +1,6 @@
 # Observatório Curica
 Este é o repositório do Observatório Curica, um projeto desenvolvido pela Promotoria de Defesa da Criança e do Adolescente de Cruzeiro do Sul, do Ministério Público do Estado do Acre (MPAC).  
-  
+ 
 O Observatório Curica tem por objetivo ser uma ferramenta de apoio às Promotorias de Justiça do MPAC, para diagnóstico, avaliação, monitoramento e intervenção em políticas públicas voltadas à educação escolar pública, com especial atenção à modalidade de ensino "rural", que atende às populações tradicionais indígenas e não indígenas localizadas na amazônia ocidental acreana.  
   
 Além disso, o Observatório também tem a finalidade de auxiliar o controle social sobre as políticas públicas, contextualizando as informações disponíveis com a realidade da amazônia acreana, populações tradicionais, meio ambiente e crise climática.  
@@ -38,9 +38,9 @@ O deslocamento dessas populações se dá por via terrestre, fluvial ou aérea. 
 As políticas públicas educacionais enfrentam esses mesmos desafios logísticos e climáticos, pois estão dispersas e devem ser implementadas em toda essa extensão territorial. Surgem, portanto, dificuldades para a construção de infraestrutura, sanemento básico e disponibilização de água potável, lotação de recursos humanos, fornecimento de alimentação escolar, materiais didáticos e materiais de expediente, transporte escolar de alunos e professores, acompanhamento pedagógico e gastos com combustível.
     
 ### Água potável  
-É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária. As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a utilização de águas provenientes dos rios e igarapés ou de poços rasos, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar.
+É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão genericamente incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária. As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a escola utilizar para o seu abastecimento águas provenientes diretamente dos rios e igarapés ou de poços rasos superficiais, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar. Essas fontes de abastecimento fornecem água não potável. Ainda, com a chegada da estação seca em um contexto de crise climática, os rios e igarapés têm tido redução drástica em seu volume de água e as cacimbas secam por completo, deixando as comunidades e escolas em situação de [crise hídrica](url).
 
-Há um programa 
+Para endereçar o problema, FNDE disponibiliza o Programa dinheiro direto na escola - [PDDE Água](https://www.gov.br/mec/pt-br/areas-de-atuacao/eb/plataforma-pdde-acoes-integradas), que destina recursos financeiros para "garantir o abastecimento de água em condições próprias para o consumo" [(Resolução FNDE nº 2/2021)](https://www.in.gov.br/web/dou/-/resolucao-n-2-de-20-de-abril-de-2021-315695374) Para receber o recurso, a unidade escolar deve declarar a inexistência de abastecimento de água potável, funcionar em prédio próprio, 
 
 
 censo escolar vs. inepdata
@@ -77,7 +77,15 @@ creche lista - Lei 14.851/2024
 
 ### Infraestrutura
 
+[Resolução FNDE nº 5/2021](https://www.in.gov.br/web/dou/-/resolucao-n-5-de-20-de-abril-de-2021-315711469)
+
 ### Mapa
+
+###
+links de interesse:
+
+https://pronacampo.mec.gov.br/acoes-do-pronacampo
+
 
 
 
