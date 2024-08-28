@@ -43,17 +43,17 @@ As escolas da zona urbana são melhores atendidas neste quesito, em comparação
   
 **Muitas vezes, endereçar o problema de fornecimento de água potável de uma escola, acaba por atender toda a comunidade de seu entorno. Esta é uma política pública de grande impacto.**  
   
-Para endereçar o problema, o FNDE disponibiliza o "Programa dinheiro direto na escola" - [PDDE Água](https://www.gov.br/mec/pt-br/areas-de-atuacao/eb/plataforma-pdde-acoes-integradas), que destina recursos financeiros para "garantir o abastecimento de água em condições próprias para o consumo" [(Resolução FNDE nº 2/2021)](https://www.in.gov.br/web/dou/-/resolucao-n-2-de-20-de-abril-de-2021-315695374) Para receber o recurso, a unidade escolar deve:
+Para endereçar o problema, o FNDE disponibiliza o "Programa dinheiro direto na escola" - [PDDE Água](https://www.gov.br/mec/pt-br/areas-de-atuacao/eb/plataforma-pdde-acoes-integradas), que destina recursos financeiros para "garantir o abastecimento de água em condições próprias para o consumo" [(Resolução FNDE nº 2/2021)](https://www.in.gov.br/web/dou/-/resolucao-n-2-de-20-de-abril-de-2021-315695374). Para receber o recurso, a unidade escolar deve:
 * declarar no censo escolar a inexistência de abastecimento de água potável;
 * funcionar em prédio próprio;
-* possuir Unidade Executora própria;
+* possuir Unidade Executora própria (UEx);
 * não ter sido beneficiada anteriormente;
 * elaborar termo de compromisso.
   
 Na prática, as escolas acabam por enfrentar dois impedimentos principais para acessar tal recurso:  
-O primeiro deles é o erro de preenchimento da condição do fornecimento de água potável no censo escolar. A análise dos dados do censo escolar demonstram que muitas escolas anotam a condição de água potável à fontes de abastecimento que são impróprias para o consumo, como as cacimbas. Dentro de uma generalização, é possível afirmar que a qualidade da água das cacimbas é melhor que a dos rios e igarapés. Entretanto, não atende os requisitos de potabilidade da [Portaria 888/2021 do Ministério da Saúde](https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-888-de-4-de-maio-de-2021-318461562).
+O primeiro deles é o erro de preenchimento da condição do fornecimento de água potável no censo escolar. A análise dos dados do censo escolar demonstram que muitas escolas anotam a condição de água potável a fontes de abastecimento que são impróprias para o consumo, como as cacimbas. Dentro de uma generalização, é possível afirmar que a qualidade da água das cacimbas é melhor que a dos rios e igarapés. Entretanto, não atende os requisitos de potabilidade da [Portaria 888/2021 do Ministério da Saúde](https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-888-de-4-de-maio-de-2021-318461562).
   
-O segundo impedimento é a ausência de unidade executora própria (UEx).
+O segundo impedimento é a ausência de unidade executora própria (UEx). Tanto a gestão estadual quanto as municipais recorrem à solução administrativa de criação de "escolas polo" na educação rural indígena e não indígena. As gestões criam escolas anexas a essas escolas polo, somando o número de alunos e servidores desses anexos às escolas polo. Nesta agregação, as escolas anexas não são contabilizadas no censo escolar e não conseguem acessar os recusos do PDDE água, para construção de poços semiartesianos profundos que, no contexto amazônico, oferecem água potável. Somente a escola polo 
 
 censo escolar vs. inepdata
 
