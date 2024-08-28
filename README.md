@@ -10,7 +10,7 @@ Dentro da episteme científica moderna, a curica é uma ave *psittaciforme*, da 
   
 Já na cosmologia de povos indígenas da família linguística Pano, habitantes da amazônia sul-ocidental, a jiboia (*Yube*) é um ser mítico, detentora dos saberes da floresta. Dentro da tradição do povo Huni Kuĩ, *Yube* é o dono e aquele quem ensina os *kene* às mulheres, os grafismos que ornam/compõe/potencializam os corpos-objetos. O primeiro *kene* ensinado pela jiboia às mulheres é o *txere beru*, o olho da curica, o qual se transforma em outros *kene* e ganha diferentes sentidos e complexidades ([MAIA, 1999](https://acervo.socioambiental.org/acervo/documentos/kene-arte-dos-huni-kui)).  
   
-O nome escolhido para o Observatório, para além de trocadilhos, presta homenagem aos povos originários da Amazônia e aos saberes tradicionais, reconhece a sua luta e procura colocar os *nawá kene* digitais a serviço da implementação das políticas públicas.
+O nome escolhido para o Observatório, para além de trocadilhos, presta homenagem às populações tradicionais e seus saberes, reconhece a sua luta e procura colocar os *nawá kene* digitais a serviço da implementação das políticas públicas.
   
 ## Fontes dos dados
 O Observatório prioriza a utilização de fontes de dados abertas e oficiais. Serão utilizados dados do censo escolar, inepdata, programas do fnde, ibge, cadúnico, sigpc, sigpnae, simec e publicações do diário oficial.  
@@ -38,10 +38,22 @@ O deslocamento dessas populações se dá por via terrestre, fluvial ou aérea. 
 As políticas públicas educacionais enfrentam esses mesmos desafios logísticos e climáticos, pois estão dispersas e devem ser implementadas em toda essa extensão territorial. Surgem, portanto, dificuldades para a construção de infraestrutura, sanemento básico e disponibilização de água potável, lotação de recursos humanos, fornecimento de alimentação escolar, materiais didáticos e materiais de expediente, transporte escolar de alunos e professores, acompanhamento pedagógico e gastos com combustível.
     
 ### Água potável  
-É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão genericamente incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária. As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a escola utilizar para o seu abastecimento águas provenientes diretamente dos rios e igarapés ou de poços rasos superficiais, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar. Essas fontes de abastecimento fornecem água não potável. Ainda, com a chegada da estação seca em um contexto de crise climática, os rios e igarapés têm tido redução drástica em seu volume de água e as cacimbas secam por completo, deixando as comunidades e escolas em situação de [crise hídrica](https://g1.globo.com/ac/acre/noticia/2024/08/11/cidade-isolada-no-acre-sofre-com-baixo-nivel-do-rio-jurua-gasolina-chega-a-r-1050-o-litro.ghtml).
-
-Para endereçar o problema, FNDE disponibiliza o Programa dinheiro direto na escola - [PDDE Água](https://www.gov.br/mec/pt-br/areas-de-atuacao/eb/plataforma-pdde-acoes-integradas), que destina recursos financeiros para "garantir o abastecimento de água em condições próprias para o consumo" [(Resolução FNDE nº 2/2021)](https://www.in.gov.br/web/dou/-/resolucao-n-2-de-20-de-abril-de-2021-315695374) Para receber o recurso, a unidade escolar deve declarar a inexistência de abastecimento de água potável, funcionar em prédio próprio, ...
-
+É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão genericamente incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária.  
+As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a escola utilizar para o seu abastecimento águas provenientes diretamente dos rios e igarapés ou de poços rasos superficiais, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar. Essas fontes de abastecimento fornecem água imprópria para o consumo. Ainda, com a chegada da estação seca, dentro de um contexto de crise climática, os rios e igarapés têm tido redução drástica em seu volume de água e as cacimbas secam por completo, deixando as comunidades e escolas em situação de [crise hídrica](https://g1.globo.com/ac/acre/noticia/2024/08/11/cidade-isolada-no-acre-sofre-com-baixo-nivel-do-rio-jurua-gasolina-chega-a-r-1050-o-litro.ghtml).
+  
+**Muitas vezes, endereçar o problema de fornecimento de água potável de uma escola, acaba por atender toda a comunidade de seu entorno. Esta é uma política pública de grande impacto.**  
+  
+Para endereçar o problema, o FNDE disponibiliza o "Programa dinheiro direto na escola" - [PDDE Água](https://www.gov.br/mec/pt-br/areas-de-atuacao/eb/plataforma-pdde-acoes-integradas), que destina recursos financeiros para "garantir o abastecimento de água em condições próprias para o consumo" [(Resolução FNDE nº 2/2021)](https://www.in.gov.br/web/dou/-/resolucao-n-2-de-20-de-abril-de-2021-315695374) Para receber o recurso, a unidade escolar deve:
+* declarar no censo escolar a inexistência de abastecimento de água potável;
+* funcionar em prédio próprio;
+* possuir Unidade Executora própria;
+* não ter sido beneficiada anteriormente;
+* elaborar termo de compromisso.
+  
+Na prática, as escolas acabam por enfrentar dois impedimentos principais para acessar tal recurso:  
+O primeiro deles é o erro de preenchimento da condição do fornecimento de água potável no censo escolar. A análise dos dados do censo escolar demonstram que muitas escolas anotam a condição de água potável à fontes de abastecimento que são impróprias para o consumo, como as cacimbas. Dentro de uma generalização, é possível afirmar que a qualidade da água das cacimbas é melhor que a dos rios e igarapés. Entretanto, não atende os requisitos de potabilidade da [Portaria 888/2021 do Ministério da Saúde](https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-888-de-4-de-maio-de-2021-318461562).
+  
+O segundo impedimento é a ausência de unidade executora própria (UEx).
 
 censo escolar vs. inepdata
 
