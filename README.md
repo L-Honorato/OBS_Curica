@@ -1,9 +1,11 @@
 # Observatório Curica
 Este é o repositório do Observatório Curica, um projeto desenvolvido pela Promotoria de Defesa da Criança e do Adolescente de Cruzeiro do Sul, do Ministério Público do Estado do Acre (MPAC).  
  
-O Observatório Curica tem por objetivo ser uma ferramenta de apoio às Promotorias de Justiça do MPAC, para diagnóstico, avaliação, monitoramento e intervenção em políticas públicas voltadas à educação escolar pública, com especial atenção à modalidade de ensino "rural", que atende às populações tradicionais indígenas e não indígenas localizadas na amazônia ocidental acreana. A extensão territorial dos Municípios do Estado do Acre somada à grande e diversa gama de atribuições das Promotorias do interior do Estado impede uma fiscalização *in loco* de cada uma das escolas da educação básica pública. O apoio do Observatório às Promotorias vem no sentido de instrumentaliza-las com informações em bases de dados públicas para identificar possíveis problemas e indicar a intervenção possível de maneira eficiente e célere. 
+A extensão territorial dos Municípios do Estado do Acre somada à grande e diversa gama de atribuições das Promotorias do interior do Estado impede uma fiscalização *in loco* de cada uma das escolas da educação básica pública. 
   
-Além disso, o Observatório também tem a finalidade de auxiliar o controle social sobre as políticas públicas, contextualizando as informações disponíveis com a realidade da amazônia acreana, populações tradicionais, meio ambiente e crise climática.  
+Nesse sentido, o Observatório Curica tem por objetivo ser uma ferramenta de apoio às Promotorias de Justiça do MPAC para diagnóstico, avaliação, monitoramento e intervenção em políticas públicas voltadas à educação escolar pública, instrumentalizando-as com informações provenientes de bases de dados oficiais, de modo a identificar violações de direitos e indicar a intervenção possível de maneira eficiente e célere.  
+
+Além disso, o Observatório também tem a finalidade de auxiliar o controle social sobre as políticas públicas, contextualizando as informações disponíveis com a realidade da amazônia acreana, populações tradicionais, meio ambiente e crise climática, dando especial atenção à modalidade de ensino "rural", que atende às populações tradicionais indígenas e não indígenas localizadas na amazônia ocidental acreana. 
   
 ## A Curica
 Dentro da episteme científica moderna, a curica é uma ave *psittaciforme*, da família *Psittacidae*, batizada como *Amazona amazonica*. Tem o porte um pouco menor que o do papagaio, ressaltando-se o destaque de seus olhos em relação ao seu corpo ([WIKIAVES](https://www.wikiaves.com.br/wiki/curica#:~:text=A%20curica%20%C3%A9%20uma%20ave,%2Dverdes%20e%20papagaio%2Dpoaieiro.)).  
