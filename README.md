@@ -64,6 +64,10 @@ Para atacar este problema é possível utilizar a base de dados do INEP, que pos
 Possível indicador de insconsistência:  
 agua potável == True and
 numero_alunos / numero_salas > 30
+
+### Infraestrutura
+Problema - falta de infra, casa do professor, galpões adaptados, *cupixaus* ou "chapéus de palha" com piso de chão batido.
+O projeto arquitetônico deve ser definido em comum acordo com as comunidades tradicionais. Entretanto, o ensino diferenciado não pode ser sinônimo de ensino precário.
   
 ### Alimentação escolar
 O direito à alimentação escolar no ensino público está previsto na Lei de Diretrizes e Bases da Educação ([LDB](https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm)) como responsabilidade do sistema respectivo de ensino, estadual ou municipal. A União tem papel de colaboração e de complementação nesta política e, para tal, há o Programa Nacional de Alimentação Escolar, o PNAE. Trata-se de uma política pública que repassa recursos federais diretamente para a rede pública de ensino estadual e municipal para aquisição de alimentação escolar e é regulamentada pela [Lei 11.947/2009](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm) e pela [Resolução FNDE nº 06/2020](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2020/resolucao-no-6-de-08-de-maio-de-2020/view).  
@@ -88,7 +92,7 @@ creche lista - Lei 14.851/2024
 
 ### Recursos Humanos
 
-### Infraestrutura
+
 
 [Resolução FNDE nº 5/2021](https://www.in.gov.br/web/dou/-/resolucao-n-5-de-20-de-abril-de-2021-315711469)
 
