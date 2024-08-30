@@ -52,15 +52,17 @@ Nesse rumo, o FNDE disponibiliza o "Programa dinheiro direto na escola" - [PDDE 
 * não ter sido beneficiada anteriormente;
 * elaborar termo de compromisso.
   
-Na prática, as escolas acabam por enfrentar dois impedimentos principais para acessar tal recurso:  
-O primeiro deles é o erro no preenchimento da condição do fornecimento de água potável no censo escolar. A análise dos dados do censo escolar demonstra que muitas escolas anotam a condição de água potável a fontes de abastecimento que são impróprias para o consumo, como as cacimbas. Dentro de uma generalização, é possível afirmar que a qualidade da água das cacimbas é melhor que a dos rios e igarapés. Entretanto, não atende os requisitos de potabilidade da [Portaria 888/2021 do Ministério da Saúde](https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-888-de-4-de-maio-de-2021-318461562).
+Na prática, as escolas rurais acabam por enfrentar dois impedimentos principais para acessar tal recurso:  
+  
+O primeiro deles é o erro no preenchimento da condição do fornecimento de água potável no censo escolar. A análise dos dados do censo escolar demonstra que muitas escolas anotam a condição de água potável a fontes de abastecimento que são impróprias para o consumo, como as cacimbas. Dentro de uma generalização, é possível afirmar que a qualidade da água das cacimbas é melhor que a dos rios e igarapés. Entretanto, não atende os requisitos de potabilidade da [Portaria 888/2021](https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-888-de-4-de-maio-de-2021-318461562) do Ministério da Saúde.
   
 Para a identificação do problema do preenchimento incorreto do censo escolar, basta listar as escolas que declaram possuir água potável cujas fontes de abastecimento são os rios, igarapés ou cacimbas. Detectado o erro de preenchimento, a Promotoria deve intervir junto à respectiva Secretaria de Educação para corrigir o problema para habilitar a UEx a receber os recursos no ano subsequente.
   
-O segundo impedimento é a ausência de unidade executora própria (UEx). Tanto a gestão estadual quanto as municipais recorrem à solução administrativa de criação de "escolas polo" na educação rural indígena e não indígena. As respectivas Secretarias de Educação criam "escolas anexas" a essas escolas polo, somando o número de alunos e servidores desses anexos às escolas polo. Nesta agregação, as escolas anexas não são contabilizadas no censo escolar e não conseguem acessar os recusos do PDDE água, pois não se constituem em UEx. Somente a escola polo é contabilizada no censo e acaba por acessar este recurso. As demais escolas anexas ficam desatendidas e tal situação simplesmente não aparece no censo escolar, de modo que os dados do censo não refletem a realidade, violando o direito dos alunos de acesso à água potável.  
+O segundo impedimento é a ausência de unidade executora própria (UEx). Tanto a gestão estadual quanto as municipais recorrem à solução administrativa de criação de "escolas polo" na educação rural indígena e não indígena. As respectivas Secretarias de Educação criam "escolas anexas" a essas escolas polo, somando o número de alunos e servidores desses anexos às escolas polo. Nesta agregação, as escolas anexas não são contabilizadas no censo escolar e não conseguem acessar os recusos do PDDE água, pois não se constituem em UEx. Somente a escola polo é contabilizada no censo e acaba por acessar este recurso. As demais escolas anexas ficam desatendidas e não é possível identificar esta situação pelo censo escolar, de modo que esses dados não refletem a realidade, violando o direito dos alunos de acesso à água potável.  
   
-Para atacar este problema é possível utilizar a base de dados do INEP, que possui o cadastro de todas as escolas da rede de ensino alvo. Assim, o cruzamento da base de dados do censo escolar com a do INEP permite saber com precisão o número de escolas anexas que existem na zona rural. De posse dos dados, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE água. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente para efetivar o fornecimento da água potável com recursos próprios.
-  
+Para atacar este problema é possível utilizar a base de dados do INEP, que possui o cadastro de todas as escolas da rede de ensino alvo, tanto escolas polo como escolas anexas. Assim, o cruzamento da base de dados do censo escolar com a base de dados do INEPData permite saber com precisão o número de escolas anexas que existem na zona rural. De posse dos dados, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE água. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente para efetivar o fornecimento da água potável com recursos próprios.
+
+Juris TJAC?
 Possível indicador de insconsistência:  
 agua potável == True and
 numero_alunos / numero_salas > 30
@@ -68,6 +70,23 @@ numero_alunos / numero_salas > 30
 ### Infraestrutura
 Problema - falta de infra, casa do professor, galpões adaptados, *cupixaus* ou "chapéus de palha" com piso de chão batido.
 O projeto arquitetônico deve ser definido em comum acordo com as comunidades tradicionais. Entretanto, o ensino diferenciado não pode ser sinônimo de ensino precário.
+
+Em razão da proximidade, as escolas da zona urbana possuem fácil acesso aos serviços da Promotoria e podem ser rapidamente inspecionadas. Ainda, o controle social é muito mais intenso, favorecendo a qualidade da estrutura física. Por outro lado, as escolas rurais indígenas e não indígenas são distantes da sede da Promotoria, dificultando a fiscalização *in loco*. Os problemas relacionados à falta de infraestrutura abrangem a ausência total de qualquer infraestrutura, tais como escolas que funcionam em galpões adaptados, na casa do professor ou em *cupixaus* ou "chapéus de palha" com piso de chão batido. Outro problema frequente é a presença de prédio com salas insuficientes para atender o número de turmas, com aulas sendo ministradas nos refeitórios e corredores, bem como ausência de cozinha, banheiros, sala administrativa, biblioteca, etc.
+
+Em sua atribuição complementar no quesito infraestrutura, o FNDE disponibiliza o recurso "PDDE Campo", "... a fim de propiciar adequação e benfeitoria na infraestrutura física das unidades escolares beneficiadas." ([Resolução FNDE nº 5/2021](https://www.in.gov.br/web/dou/-/resolucao-n-5-de-20-de-abril-de-2021-315711469)). Mesmo escolas que já tenham recebido o recurso em anos anteriores podem participar do programa. Os requisitos para adesão pelas escolas são: 
+
+* declarar-se no censo escolar como uma escola ativa e com matrículas;
+* funcionar em prédio próprio;
+* possuir Unidade Executora própria (UEx);
+* não ter sido beneficiada anteriormente;
+* elaborar termo de compromisso.
+  
+Tal qual o PDDE Água, o arranjo administrativo que cria escolas anexas à escola polo atua como impeditivo ao acesso aos recursos do PDDE Campo pois os anexos não possuem UEx própria. Mais grave, as informações do censo escolar acabam contemplando somente a escola polo, que agrega todos os alunos da região e o recurso só pode ser executado com a UEx beneficiada. Não é possível acessar as condições da infraestrutura das escolas anexas, que são as que possuem condições mais precárias.
+
+
+
+### Recursos Humanos
+
   
 ### Alimentação escolar
 O direito à alimentação escolar no ensino público está previsto na Lei de Diretrizes e Bases da Educação ([LDB](https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm)) como responsabilidade do sistema respectivo de ensino, estadual ou municipal. A União tem papel de colaboração e de complementação nesta política e, para tal, há o Programa Nacional de Alimentação Escolar, o PNAE. Trata-se de uma política pública que repassa recursos federais diretamente para a rede pública de ensino estadual e municipal para aquisição de alimentação escolar e é regulamentada pela [Lei 11.947/2009](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm) e pela [Resolução FNDE nº 06/2020](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2020/resolucao-no-6-de-08-de-maio-de-2020/view).  
@@ -90,11 +109,11 @@ inep data não fornece detalhamento a nível de Município.
 
 creche lista - Lei 14.851/2024
 
-### Recursos Humanos
 
 
 
-[Resolução FNDE nº 5/2021](https://www.in.gov.br/web/dou/-/resolucao-n-5-de-20-de-abril-de-2021-315711469)
+
+
 
 ### Mapa
 
