@@ -111,7 +111,19 @@ A solução lógica para a melhoria da alimentação escolar urbana e rural é a
 Neste caso, o monitoramento se dá com os dados da plataforma [SigPC](https://www.gov.br/fnde/pt-br/assuntos/sistemas/sigpc-acesso-publico), verificando-se os valores destinados à aquisição de alimentos da agricultura familiar, bem como o quantitativo de compras diretas de fornecedores individuais. Diante da complexidade da execução desta política pública, a melhor intervenção da Promotoria se dá na facilitação da articulação entre os diferentes atores envolvidos.
 
 ### Transporte escolar
-Como repetidamente explicado acima, insiste-se em lembrar que o Estado do Acre possui vasta extensão territorial, espaço onde se desenrola a política pública educacional. Em diversas situações, os alunos não residem próximos das escolas e necessitam de transporte escolar. Esta é a realidade da maioria dos alunos em projetos de assentamento do INCRA, em razão da distribuição espacial dos lotes aos assentados.
+Como repetidamente explicado acima, insiste-se em lembrar que o Estado do Acre possui vasta extensão territorial, espaço onde se desenrola a política pública educacional. Além disso, deve-se levar em conta a diversidade geográfica onde o transporte escolar deve ser ofertado. De modo genérico, é possível iniciar a discussão contando três contextos diferentes: a zona urbana, a zona rural terrestre e a zona rural ribeirinha. O transporte escolar da zona urbana é facilitado pelo adensamento populacional e infraestrutura urbana disponível, como a presença de veículos e ruas pavimentadas. O transporte escolar da zona rural terrestre é, com maior frequência, realizado em estradas sem pavimentação que se deterioram rapidamente no período chuvoso. Por sua vez, o transporte escolar fluvial atende as escolas ribeirinhas e é prejudicado durante a estação seca, situação agravada no presente em razão da crise climática.
+  
+A zona urbana possui uma melhor distribuição espacial de escolas e atende a maior parte da demanda do ensino fundamental. As escolas de ensino médio são em menor número e necessitam de um apoio maior do transporte escolar. Como se verá adiante, a evasão escolar é mais intensa no ensino médio e é preciso investigar se a deficiência de transporte escolar pode ser mais uma causa para o abandono dos estudos.  
+  
+Na zona rural, a necessidade de transporte é a regra. À exceção daqueles alunos que residem nas comunidades ou aldeias que abrigam escolas, os alunos não residem próximos do local de ensino e necessitam do transporte escolar, tanto na zona terrestre como na ribeirinha.  
+
+PNATE
+
+A ação da Promotoria para o problema da evasão no ensino médio é mais complexa e necessita de aplicação de questionário específico para identificar as causas do abandono. Intuitivamente, o cruzamento do georreferenciamento das escolas com o da moradia dos alunos que concluíram o ensino fundamental e não se matricularam no ensino médio certamente demonstrará a deficiência de escolas rurais de ensino médio. Entretanto, há que se identificar se esse mesmo problema se repete na zona urbana.
+
+Existe jurisprudência do STJ que estabelece a distância da moradia do aluno maior de 3 quilômetros da escola como critério para a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino. Este é o critério para o cruzamento dos dados do georreferenciamento e intervenção da Promotoria na zona urbana.  
+
+Na zona rural, enfrenta-se o mesmo problema anterior de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas da ZZZZZ
 
 ### Metas do PNE
 inep data não fornece detalhamento a nível de Município.
