@@ -1,4 +1,4 @@
- Observatório Curica
+# Observatório Curica
 Este é o repositório do Observatório Curica, um projeto desenvolvido pela Promotoria de Defesa da Criança e do Adolescente de Cruzeiro do Sul, do Ministério Público do Estado do Acre (MPAC).  
  
 Entre as diversas atribuições do Ministério Público está a defesa dos direitos individuais e sociais considerados indisponíveis, consagrados pela Constituição Brasileira. A maneira mais ampla e evidente de efetivação desses direitos se dá por meio da implementação de políticas públicas. O direito à educação e as políticas públicas respectivas é um exemplo de dever de atuação do Ministério Público, por meio das Promotorias de Justiça com atribuição em cada um dos Muncípios brasileiros.  
@@ -40,6 +40,8 @@ O Estado do Acre possui uma área de 164.221 km², território maior que o da In
 O deslocamento dessas populações se dá por via terrestre, fluvial ou aérea. Esses meios de transporte são diretamente influenciados pelo clima: no período chuvoso, os rios estão cheios e o transporte fluvial de pessoas e cargas é favorecido. Por outro lado, o transporte terrestre fica prejudicado em razão da precariedade das estradas. Na estação seca, ao contrário, fica favorecido o transporte terrestre e a navegação é afetada. O transporte aéreo é uma alternativa a esses outros, entre centros urbanos.  
 
 As políticas públicas educacionais enfrentam esses mesmos desafios logísticos e climáticos, pois estão dispersas e devem ser implementadas em toda essa extensão territorial. Surgem, portanto, dificuldades para a construção de infraestrutura, sanemento básico e disponibilização de água potável, lotação de recursos humanos, fornecimento de alimentação escolar, materiais didáticos e materiais de expediente, transporte escolar de alunos e professores, formações continuadas, acompanhamento pedagógico e gastos com combustível.
+
+**Prevalência do ensino rural. Há mais escolas rurais que urbanas! fazer gráfico**
     
 ### Água potável  
 É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão genericamente incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária.  
@@ -111,19 +113,17 @@ A solução lógica para a melhoria da alimentação escolar urbana e rural é a
 Neste caso, o monitoramento se dá com os dados da plataforma [SigPC](https://www.gov.br/fnde/pt-br/assuntos/sistemas/sigpc-acesso-publico), verificando-se os valores destinados à aquisição de alimentos da agricultura familiar, bem como o quantitativo de compras diretas de fornecedores individuais. Diante da complexidade da execução desta política pública, a melhor intervenção da Promotoria se dá na facilitação da articulação entre os diferentes atores envolvidos.
 
 ### Transporte escolar
-Como insistentemente explicado acima, insiste-se em lembrar que o Estado do Acre possui vasta extensão territorial, espaço onde se desenrola a política pública educacional. Além disso, deve-se levar em conta a diversidade geográfica onde o transporte escolar deve ser ofertado. De modo genérico, é possível iniciar a discussão contando três contextos diferentes: a zona urbana, a zona rural terrestre e a zona rural ribeirinha. O transporte escolar da zona urbana é facilitado pelo adensamento populacional e infraestrutura urbana disponível, como a presença de veículos e ruas pavimentadas. O transporte escolar da zona rural terrestre é, com maior frequência, realizado em estradas sem pavimentação que se deterioram rapidamente no período chuvoso. Por sua vez, o transporte escolar fluvial atende as escolas ribeirinhas e é prejudicado durante a estação seca, situação agravada no presente em razão da crise climática.
+Como insistentemente explicado acima, relembra-se que o Estado do Acre possui vasta extensão territorial, espaço onde se desenrola a política pública educacional. Além disso, deve-se levar em conta a diversidade geográfica onde o transporte escolar deve ser ofertado. De modo genérico, é possível iniciar a discussão contando três contextos diferentes: a zona urbana, a zona rural terrestre e a zona rural ribeirinha. O transporte escolar da zona urbana é facilitado pelo adensamento populacional e infraestrutura urbana disponível, como a presença de veículos e ruas pavimentadas. O transporte escolar da zona rural terrestre é, com maior frequência, realizado em estradas sem pavimentação que se deterioram rapidamente no período chuvoso. Por sua vez, o transporte escolar fluvial atende as escolas ribeirinhas e é prejudicado durante a estação seca, situação agravada no presente em razão da crise climática.
   
 A zona urbana possui uma melhor distribuição espacial de escolas e atende a maior parte da demanda do ensino fundamental. As escolas de ensino médio são em menor número e necessitam de um apoio maior do transporte escolar. Como se verá adiante, a evasão escolar é mais intensa no ensino médio e é preciso investigar se a deficiência de transporte escolar pode ser mais uma causa para o abandono dos estudos.  
   
-Na zona rural, a necessidade de transporte é a regra. À exceção daqueles alunos que residem nas comunidades ou aldeias que abrigam escolas, os alunos não residem próximos do local de ensino e necessitam do transporte escolar, tanto na zona terrestre como na ribeirinha.  
+Na zona rural, a necessidade de transporte é a regra. À exceção daqueles alunos que residem nas comunidades ou aldeias que abrigam escolas, os alunos não residem próximos do local de ensino e necessitam do transporte escolar, tanto na zona terrestre como na ribeirinha. Relembre-se que a maioria das escolas se encontra na zona rural.  
+  
+A constituição de 1988 também coloca o transporte escolar como parte do direito à educação em sentido amplo, ([Art. 208, inc. VII)](https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm)). A ([LDB](https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm)), por sua vez, determina que o transporte escolar é responsabilidade do respectivo sistema de ensino, estadual ou municipal. Para auxiliar Estados e Municípios, o FNDE executa o Programa Nacional de Apoio ao Transporte do Escolar ([PNATE](https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnate)), "(...) com o objetivo de oferecer transporte escolar aos alunos da educação básica pública, residentes em área rural (...)" ([Lei 10.880/2004](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.880.htm)). O valor do repasse é calculado com base no número de alunos que estudam na zona rural que utilizam transporte escolar, assim declarados no censo escolar do ano anterior.  
 
-PNATE
+Para receber o repasse, basta a anotação no censo escolar de que o aluno utiliza o transporte escolar. A transferência é automática. Entretanto, para atender a legislação, Estados ou Municípios devem primeiro disponibilizar o serviço, para então fazer a anotação no censo escolar e receber a suplementação ([Resolução FNDE nº 18/2021](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2021/resolucao-no-18-de-22-de-outubro-de-2021/view). 
 
-A ação da Promotoria para o problema da evasão no ensino médio é mais complexa e necessita de aplicação de questionário específico para identificar as causas do abandono. Intuitivamente, o cruzamento do georreferenciamento das escolas com o da moradia dos alunos que concluíram o ensino fundamental e não se matricularam no ensino médio certamente demonstrará a deficiência de escolas rurais de ensino médio. Entretanto, há que se identificar se esse mesmo problema se repete na zona urbana.
-
-Existe jurisprudência do STJ que estabelece a distância da moradia do aluno maior de 3 quilômetros da escola como critério para a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino. Este é o critério para o cruzamento dos dados do georreferenciamento e intervenção da Promotoria na zona urbana.  
-
-Na zona rural, enfrenta-se o mesmo problema anterior de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas da ZZZZZ
+No ensino zona rural, enfrenta-se o mesmo problema de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas e da grande demanda, é possível a criação de um filtro arbitrário para definir a deficiência na prestação do transporte escolar na zona rural. Se houver anotação no censo escolar de que menos de 80% dos alunos matriculados em determinada escola fazem uso do transporte escolar, a situação deve ser apurada. O levantamento deste dado permite, mais uma vez, uma ação precisa das Promotorias de Justiça no endereçamento da demanda. Basta o cruzamento dos dados do censo escolar, Inep e a requisição das rotas de transporte escolar terrestres e fluviais. Na impossibilidade de solução extrajudicial, o Superior Tribunal de Justiça possui jurisprudência consolidada que estabelece como critério de razoabilidade a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino para alunos que residem a mais de 3 quilômetros de distância da escola.
 
 ### Metas do PNE
 inep data não fornece detalhamento a nível de Município.
@@ -132,7 +132,12 @@ inep data não fornece detalhamento a nível de Município.
 
 creche lista - Lei 14.851/2024
 
+evasão escolar:
+A ação da Promotoria para o problema da evasão no ensino médio é mais complexa e necessita de aplicação de questionário específico para identificar as causas do abandono. Intuitivamente, o cruzamento do georreferenciamento das escolas com o da moradia dos alunos que concluíram o ensino fundamental e não se matricularam no ensino médio certamente demonstrará a deficiência de escolas rurais de ensino médio. Entretanto, há que se identificar se esse mesmo problema se repete na zona urbana.
 
+Pelo censo, pegar o nome dos alunos matriculados no 9º ano da zona rural e ver quantos deles foram matriculados no 1º do médio.
+
+Existe jurisprudência do STJ que estabelece a distância da moradia do aluno maior de 3 quilômetros da escola como critério para a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino. Este é o critério para o cruzamento dos dados do georreferenciamento e intervenção da Promotoria na zona urbana.  
 
 
 
