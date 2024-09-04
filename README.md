@@ -130,6 +130,28 @@ inep data não fornece detalhamento a nível de Município.
 
 [Painel de monitoramento do PNE](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/inep-data/painel-de-monitoramento-do-pne)
 
+Objeto: Monitorar o cumprimento do Plano Nacional de Educação (PNE) 2014-2024, pelos Municípios de Cruzeiro do Sul, Porto Walter e Marechal Thaumaturgo, visando promover a melhoria da qualidade da educação.
+
+Lei 13005/2014 PNE
+
+meta 01
+
+meta 02
+
+meta 03
+
+meta 04
+
+meta 05 - procurar IDEB?
+
+meta 06
+
+meta 15
+
+meta 16
+
+
+
 creche lista - Lei 14.851/2024
 
 evasão escolar:
@@ -140,9 +162,6 @@ Pelo censo, pegar o nome dos alunos matriculados no 9º ano da zona rural e ver 
 Existe jurisprudência do STJ que estabelece a distância da moradia do aluno maior de 3 quilômetros da escola como critério para a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino. Este é o critério para o cruzamento dos dados do georreferenciamento e intervenção da Promotoria na zona urbana.  
 
 
-
-
-
 ### Mapa
 
 ###
@@ -150,8 +169,3 @@ links de interesse:
 
 https://pronacampo.mec.gov.br/acoes-do-pronacampo
 
-
-
-
-
-  
