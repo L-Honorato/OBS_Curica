@@ -1,7 +1,7 @@
 # Observatório Curica
 Este é o repositório do Observatório Curica, um projeto desenvolvido pela Promotoria de Defesa da Criança e do Adolescente de Cruzeiro do Sul, do Ministério Público do Estado do Acre (MPAC).  
  
-Entre as diversas atribuições do Ministério Público está a defesa dos direitos individuais e sociais considerados indisponíveis, consagrados pela Constituição Brasileira. A maneira mais ampla e evidente de efetivação desses direitos se dá por meio da implementação de políticas públicas. O direito à educação e as políticas públicas respectivas é um exemplo de dever de atuação do Ministério Público, por meio das Promotorias de Justiça com atribuição em cada um dos Muncípios brasileiros.  
+Entre as diversas atribuições do Ministério Público está a defesa dos direitos individuais e sociais [fundamentais](https://pt.wikipedia.org/wiki/Direitos_fundamentais#:~:text=Direitos%20fundamentais%20%3A%20s%C3%A3o%20direitos%20do,determinado%20Estado%20(car%C3%A1ter%20nacional).), consagrados pela Constituição Brasileira. A maneira mais ampla e evidente de efetivação desses direitos se dá por meio da implementação de políticas públicas. O direito à educação e as políticas públicas respectivas é um exemplo de dever de atuação do Ministério Público, por meio das Promotorias de Justiça com atribuição em cada um dos Muncípios brasileiros.  
 
 A extensão territorial dos Municípios do Estado do Acre somada à grande e diversa gama de atribuições das Promotorias do interior do Estado impede uma fiscalização *in loco* de cada uma das escolas da educação básica pública. 
   
