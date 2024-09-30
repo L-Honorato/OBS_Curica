@@ -41,8 +41,6 @@ O deslocamento dessas populações se dá por via terrestre, fluvial ou aérea. 
 
 As políticas públicas educacionais enfrentam esses mesmos desafios logísticos e climáticos, pois estão dispersas e devem ser implementadas em toda essa extensão territorial. Surgem, portanto, dificuldades para a construção de infraestrutura, sanemento básico e disponibilização de água potável, lotação de recursos humanos, fornecimento de alimentação escolar, materiais didáticos e materiais de expediente, transporte escolar de alunos e professores, formações continuadas, acompanhamento pedagógico e gastos com combustível.
 
-**Prevalência do ensino rural. Há mais escolas rurais que urbanas! fazer gráfico**
-    
 ### Água potável  
 É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão genericamente incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária.  
 As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a escola utilizar para o seu abastecimento águas provenientes diretamente dos rios e igarapés ou de poços rasos superficiais, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar. Essas fontes de abastecimento fornecem água imprópria para o consumo. Ainda, com a chegada da estação seca, dentro de um contexto de crise climática, os rios e igarapés têm tido redução drástica em seu volume de água e as cacimbas secam por completo, deixando as comunidades e escolas em situação de [crise hídrica](https://g1.globo.com/ac/acre/noticia/2024/08/11/cidade-isolada-no-acre-sofre-com-baixo-nivel-do-rio-jurua-gasolina-chega-a-r-1050-o-litro.ghtml).
@@ -66,18 +64,11 @@ O segundo impedimento é a ausência de unidade executora própria (UEx). Tanto 
   
 Para atacar este problema é possível utilizar a base de dados do INEP, que possui o cadastro de todas as escolas da rede de ensino alvo, tanto escolas polo como escolas anexas. Assim, o cruzamento da base de dados do censo escolar com a base de dados do INEPData permite saber com precisão o número de escolas anexas que existem na zona rural. De posse dos dados, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE água. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente para efetivar o fornecimento da água potável com recursos próprios.
 
-**Estimativa de recursos não captados**
-
-Juris TJAC?
-Possível indicador de insconsistência:  
-agua potável == True and
-numero_alunos / numero_salas > 30
-
 ### Infraestrutura
 Em razão da proximidade, as escolas da zona urbana possuem fácil acesso aos serviços da Promotoria e podem ser rapidamente inspecionadas. Ainda, o controle social é muito mais intenso, favorecendo a qualidade da estrutura física. Por outro lado, as escolas rurais indígenas e não indígenas são distantes da sede da Promotoria, dificultando a fiscalização *in loco*. Os problemas relacionados à falta de infraestrutura abrangem a ausência total de qualquer infraestrutura, tais como escolas que funcionam em galpões adaptados, na casa do professor ou em *cupixaus* ou "chapéus de palha" com piso de chão batido. Outro problema frequente nas escolas rurais indígenas e não indígenas é a presença de prédio com salas insuficientes para atender o número de turmas, com aulas sendo ministradas nos refeitórios e corredores, bem como ausência de cozinha, banheiros, sala administrativa, biblioteca, etc.
 
 Em sua responsabilidade complementar, no quesito infraestrutura, o FNDE disponibiliza o recurso ["PDDE Campo"](https://pddeinterativo.mec.gov.br/educacao-e-familia/16-programas/49-pdde-campo-programa-dinheiro-direto-na-escola), "... a fim de propiciar adequação e benfeitoria na infraestrutura física das unidades escolares beneficiadas." ([Resolução FNDE nº 5/2021](https://www.in.gov.br/web/dou/-/resolucao-n-5-de-20-de-abril-de-2021-315711469)). Mesmo escolas que já tenham recebido o recurso em anos anteriores podem participar do programa. Os requisitos para adesão pelas escolas são: 
-
+  
 * declarar-se no censo escolar como uma escola ativa e com matrículas;
 * funcionar em prédio próprio;
 * possuir Unidade Executora própria (UEx);
@@ -85,13 +76,11 @@ Em sua responsabilidade complementar, no quesito infraestrutura, o FNDE disponib
 * elaborar termo de compromisso.
   
 Tal qual o PDDE Água, o arranjo administrativo que cria escolas anexas à escola polo atua como impeditivo ao acesso aos recursos do PDDE Campo, pois os anexos não possuem UEx própria. Mais grave, as informações do censo escolar acabam contemplando somente a escola polo, que agrega todos os alunos da região e o recurso só pode ser executado em melhorias que atendam exclusivamente a UEx beneficiada. Ainda, os dados do censo escolar a respeito da infraestrutura dos prédios escolares se refere somente às escolas polo. As condições da infraestrutura das escolas anexas são invisibilizadas e são as que, justamente, possuem condições mais precárias.
-
+  
 Mais uma vez, o diagnóstico só é possível com o cruzamento dos dados do censo escolar e a base de dados do INEP. Esse filtro enumera a quantidade de escolas anexas que devem ser inspecionadas. Outro indicador interessante é verificar o número de salas declarado no censo escolar pela escola polo. Então, basta dividir o número total de alunos declarados no censo como matriculados na escola polo pelo número de salas de ensino disponíveis. Então, deve-se aplicar um filtro para selecionar os resultados maiores que o limite máximo de alunos por turma e modalidade de ensino, defindido pelo Conselho Estadual de Educação (Instrução Normativa CEE nº 347/2023). A discrepância fica evidente.
-
+  
 Esse filtro permite direcionar os esforços das Promotorias com precisão, incrementando-se a eficiência da intervenção. Mais uma vez, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE Campo. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente judicialmente para compeli-lo à construção das benfeitorias necessárias com recursos financeiros próprios.  
   
-**Estimativa de recursos não captados**
-
 ### Recursos Humanos
 Por óbvio, não basta a construção de infraestrutura para que o direito à educação seja efetivado. Os recursos humanos são essenciais para uma educação de qualidade. De largada, é possível classificar a demanda de recursos humanos de uma escola em corpo docente e corpo técnico-administrativo, como auxiliares de serviços gerais ou servente e manipuladoras de alimentos, as merendeiras. A título de exemplo, a Instrução Normativa nº 02/2021, da Secretaria Estadual de Educação do Acre, estabelece diretrizes administrativas para a Lotação de Servidores e dispõe sobre a composição do corpo administrativo educacional, além de definir as atribuições de cada colaborador. O número mínimo definido para contratação desses colaboradores, por escola, é de um servente a cada duas salas de aula e de uma merendeira a cada 100 alunos, por turno. A instrução normativa citada certamente endereçou o mínimo necessário.
   
@@ -123,7 +112,7 @@ A constituição de 1988 também coloca o transporte escolar como parte do direi
 
 Para receber o repasse, basta a anotação no censo escolar de que o aluno utiliza o transporte escolar. A transferência é automática. Entretanto, para atender a legislação, Estados ou Municípios devem primeiro disponibilizar o serviço, para então fazer a anotação no censo escolar e receber a suplementação ([Resolução FNDE nº 18/2021](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2021/resolucao-no-18-de-22-de-outubro-de-2021/view). 
 
-No ensino zona rural, enfrenta-se o mesmo problema de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas e da grande demanda, é possível a criação de um filtro arbitrário para definir a deficiência na prestação do transporte escolar na zona rural. Se houver anotação no censo escolar de que menos de 80% dos alunos matriculados em determinada escola fazem uso do transporte escolar, a situação deve ser apurada. O levantamento deste dado permite, mais uma vez, uma ação precisa das Promotorias de Justiça no endereçamento da demanda. Basta o cruzamento dos dados do censo escolar, Inep e a requisição das rotas de transporte escolar terrestres e fluviais. Na impossibilidade de solução extrajudicial, o Superior Tribunal de Justiça possui jurisprudência consolidada que estabelece como critério de razoabilidade a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino para alunos que residem a mais de 2 quilômetros de distância da escola.
+No ensino da zona rural, enfrenta-se o mesmo problema de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas e da grande demanda, é possível a criação de um filtro arbitrário para definir a deficiência na prestação do transporte escolar na zona rural. Se houver anotação no censo escolar de que menos de 80% dos alunos matriculados em determinada escola fazem uso do transporte escolar, a situação deve ser apurada. O levantamento deste dado permite, mais uma vez, uma ação precisa das Promotorias de Justiça no endereçamento da demanda. Basta o cruzamento dos dados do censo escolar, Inep e a requisição das rotas de transporte escolar terrestres e fluviais. Na impossibilidade de solução extrajudicial, o Superior Tribunal de Justiça possui jurisprudência consolidada que estabelece como critério de razoabilidade a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino para alunos que residem a mais de 2 quilômetros de distância da escola.
 
 ### Metas do PNE
 inep data não fornece detalhamento a nível de Município.
