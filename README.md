@@ -43,6 +43,7 @@ As políticas públicas educacionais enfrentam esses mesmos desafios logísticos
 
 ### Água potável  
 É interessante pensar que o acesso à água potável em uma das maiores concentrações de água doce do planeta possa ser um problema de saúde pública crônico. Entretanto, essa é a realidade das periferias urbanas da amazônia e das comunidades afastadas dessas cidades. Como explicado acima, o "ensino rural" trabalha com uma grande diversidade socioambiental, onde estão genericamente incluídas os povos indígenas e as comunidades não indígenas ribeirinhas, extrativistas e colonos residentes em projetos de assentamento da reforma agrária.  
+  
 As escolas da zona urbana são melhores atendidas neste quesito, em comparação com as escolas rurais. Nestas, é muito comum a escola utilizar para o seu abastecimento águas provenientes diretamente dos rios e igarapés ou de poços rasos superficiais, também chamados de "poço amazônico" ou "cacimba". Esta última é a terminologia empregada pelo censo escolar. Essas fontes de abastecimento fornecem água imprópria para o consumo. Ainda, com a chegada da estação seca, dentro de um contexto de crise climática, os rios e igarapés têm tido redução drástica em seu volume de água e as cacimbas secam por completo, deixando as comunidades e escolas em situação de [crise hídrica](https://g1.globo.com/ac/acre/noticia/2024/08/11/cidade-isolada-no-acre-sofre-com-baixo-nivel-do-rio-jurua-gasolina-chega-a-r-1050-o-litro.ghtml).
   
 **Muitas vezes, endereçar o problema de fornecimento de água potável de uma escola acaba por atender toda a comunidade de seu entorno. Esta é uma política pública de grande impacto social.**  
@@ -60,9 +61,9 @@ O primeiro deles é o erro no preenchimento da condição do fornecimento de ág
   
 Para a identificação do problema do preenchimento incorreto do censo escolar, basta listar as escolas que declaram possuir água potável cujas fontes de abastecimento são os rios, igarapés ou cacimbas. Detectado o erro de preenchimento, a Promotoria deve intervir junto à respectiva Secretaria de Educação para corrigir o problema para habilitar a UEx a receber os recursos no ano subsequente.
   
-O segundo impedimento é a ausência de unidade executora própria (UEx). Tanto a gestão estadual quanto as municipais recorrem à solução administrativa de criação de "escolas polo" na educação rural indígena e não indígena. As respectivas Secretarias de Educação criam "escolas anexas" a essas escolas polo, somando o número de alunos e servidores desses anexos às escolas polo. Nesta agregação, as escolas anexas não são contabilizadas no censo escolar e não conseguem acessar os recusos do PDDE água, pois não se constituem em UEx. Somente a escola polo é contabilizada no censo e acaba por acessar este recurso. As demais escolas anexas ficam desatendidas e não é possível identificar esta situação pelo censo escolar, de modo que esses dados não refletem a realidade, violando o direito dos alunos de acesso à água potável.  
+O segundo impedimento é a ausência de unidade executora própria (UEx). Tanto a gestão estadual quanto as municipais recorrem à solução administrativa de criação de "escolas polo" na educação rural indígena e não indígena. As respectivas Secretarias de Educação criam "escolas anexas" a essas escolas polo, somando o número de alunos e servidores desses anexos às escolas polo. Nesta agregação, as escolas anexas não são contabilizadas no censo escolar e não conseguem acessar os recursos do PDDE água, pois não se constituem em UEx. Somente a escola polo é contabilizada no censo e acaba por acessar este recurso. As demais escolas anexas ficam desatendidas e não é possível identificar esta situação pelo censo escolar, de modo que esses dados não refletem a realidade, violando o direito dos alunos de acesso à água potável.  
   
-Para atacar este problema é possível utilizar a base de dados do INEP, que possui o cadastro de todas as escolas da rede de ensino alvo, tanto escolas polo como escolas anexas. Assim, o cruzamento da base de dados do censo escolar com a base de dados do INEPData permite saber com precisão o número de escolas anexas que existem na zona rural. De posse dos dados, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE água. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente para efetivar o fornecimento da água potável com recursos próprios.
+Para atacar este problema é possível utilizar a base de dados do INEP, que possui o cadastro de todas as escolas da rede de ensino alvo, tanto escolas polo como escolas anexas. Assim, o cruzamento da base de dados do censo escolar com a base de dados do INEP Data permite saber com precisão o número de escolas anexas que existem na zona rural. De posse dos dados, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE água. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente para efetivar o fornecimento da água potável com recursos próprios.
 
 ### Infraestrutura
 Em razão da proximidade, as escolas da zona urbana possuem fácil acesso aos serviços da Promotoria e podem ser rapidamente inspecionadas. Ainda, o controle social é muito mais intenso, favorecendo a qualidade da estrutura física. Por outro lado, as escolas rurais indígenas e não indígenas são distantes da sede da Promotoria, dificultando a fiscalização *in loco*. Os problemas relacionados à falta de infraestrutura abrangem a ausência total de qualquer infraestrutura, tais como escolas que funcionam em galpões adaptados, na casa do professor ou em *cupixaus* ou "chapéus de palha" com piso de chão batido. Outro problema frequente nas escolas rurais indígenas e não indígenas é a presença de prédio com salas insuficientes para atender o número de turmas, com aulas sendo ministradas nos refeitórios e corredores, bem como ausência de cozinha, banheiros, sala administrativa, biblioteca, etc.
@@ -82,11 +83,11 @@ Mais uma vez, o diagnóstico só é possível com o cruzamento dos dados do cens
 Esse filtro permite direcionar os esforços das Promotorias com precisão, incrementando-se a eficiência da intervenção. Mais uma vez, a Promotoria pode intervir junto à respectiva Secretaria de Educação para a criação da UEx daquela unidade escolar e habilita-la a receber os recursos do PDDE Campo. A outra alternativa é o ajuizamento de Ação Civil Pública, demandando o ente judicialmente para compeli-lo à construção das benfeitorias necessárias com recursos financeiros próprios.  
   
 ### Recursos Humanos
-Por óbvio, não basta a construção de infraestrutura para que o direito à educação seja efetivado. Os recursos humanos são essenciais para uma educação de qualidade. De largada, é possível classificar a demanda de recursos humanos de uma escola em corpo docente e corpo técnico-administrativo, como auxiliares de serviços gerais ou servente e manipuladoras de alimentos, as merendeiras. A título de exemplo, a Instrução Normativa nº 02/2021, da Secretaria Estadual de Educação do Acre, estabelece diretrizes administrativas para a Lotação de Servidores e dispõe sobre a composição do corpo administrativo educacional, além de definir as atribuições de cada colaborador. O número mínimo definido para contratação desses colaboradores, por escola, é de um servente a cada duas salas de aula e de uma merendeira a cada 100 alunos, por turno. A instrução normativa citada certamente endereçou o mínimo necessário.
+Por óbvio, não basta a construção de infraestrutura para que o direito à educação seja efetivado. Os recursos humanos são essenciais para uma educação de qualidade. De largada, é possível classificar a demanda de recursos humanos de uma escola em corpo docente e corpo técnico-administrativo, como auxiliares de serviços gerais ou servente e manipuladoras de alimentos, as celebradas merendeiras. A título de exemplo, a Instrução Normativa nº 02/2021, da Secretaria Estadual de Educação do Acre, estabelece diretrizes administrativas para a Lotação de Servidores e dispõe sobre a composição do corpo administrativo educacional, além de definir as atribuições de cada colaborador. O número mínimo definido para contratação desses colaboradores, por escola, é de um servente a cada duas salas de aula e de uma merendeira a cada 100 alunos, por turno.
   
 A exemplo das dificuldades anteriores, as escolas da zona urbana costumam contar com o quadro de docentes e de corpo técnico completos. A insistência no desfalque é rapidamente comunicada à imprensa, redes sociais ou à Promotoria para providências. Ao contrário, o desfalque de servidores nas escolas rurais indígenas e não indígenas é um problema crônico. É frequente que tais escolas contem apenas com professores em seu quadro de servidores. Nesses casos, a limpeza do ambiente escolar e o preparo da alimentação ficam a cargo desses professores ou, em situações extremas, esse trabalho é realizado pelos próprios alunos. O fato é que o ensino fica prejudicado, pois o professor tira tempo de sala de aula para a realização dessas tarefas, diminuindo a carga horária letiva mínima a qual os alunos têm direito.
-
-Novamente, essa situação não pode ser constatada somente com os dados do censo escolar, em razão do agrupamento dos alunos em escolas polo. A solução é o cruzamento desses dados com o Inep para identificar as escolas anexas e comparar os somatórios de servidores com as quantidades mínimas da Instrução Normativa citada acima. Essas análises trazem eficiência para o diagnóstico e permitem uma ação precisa e eficiente das Promotorias do interior do Estado. No caso de contratação de recursos humanos, a propositura de Ações Civis Públicas têm sido o meio mais eficiente para compelir Estado e Municípios a contratar o mínimo de servidores necessários para execução do serviço público.
+  
+Novamente, essa situação não pode ser constatada somente com os dados do censo escolar, em razão do agrupamento dos alunos em escolas polo. Entretanto, é possível criar filtros com indicadores baseados nas constatações de campo e cruzar esses dados com a do Inep para identificar as escolas anexas e comparar os somatórios de servidores com as quantidades mínimas da Instrução Normativa citada acima. Essas análises trazem eficiência para o diagnóstico e permitem uma ação precisa e eficiente das Promotorias do interior do Estado. No caso de contratação de recursos humanos, a propositura de Ações Civis Públicas têm sido o meio mais eficiente para compelir Estado e Municípios a contratar o mínimo de servidores necessários para execução do serviço público.
   
 ### Alimentação escolar
 A disponibilização de alimentação nas escolas é uma política pública de combate à fome que teve início por volta do ano de 1930, com a prevalência de doações de instituições internacionais de combate à fome ao governo brasileiro. Somente na década de 1970 é que o governo brasileiro passou a priorizar a aquisição de gêneros alimentícios de fabricantes nacionais. Em 1979 é criado o Programa Nacional de Alimentação Escolar (PNAE) com esta denominação. Na época, a logística era centralizada, com prevalência na aquisição de alimentos enlatados (ultraprocessados) que eram distribuídos para todo o território nacional ([Peixinho, 2013](https://doi.org/10.1590/S1413-81232013000400002)). Por sua vez, a Constituição brasileira de 1988 eleva a alimentação escolar a direito fundamental ([Art. 208, inc. VII)](https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm)).
@@ -96,13 +97,13 @@ Nessa esteira, o direito à alimentação escolar no ensino público está previ
 Embora ele esteja dentro da estrutura administrativa educacional, o programa também integra o Sistema Nacional de Segurança Alimentar [(Lei 11.346/2009)](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11346.htm) e a Política Nacional da Agricultura Familiar [(Lei 11.326/2006)](https://www.planalto.gov.br/ccivil_03/%5C_ato2004-2006/2006/lei/l11326.htm). Especialmente com relação à agricultura familiar, a lei 11.947/2009 estabelece que, do total dos recursos repassados pelo PNAE, no mínimo 30% devem ser utilizados na aquisição de gêneros alimentícios provenientes da agricultura familiar. Além dos recursos provenientes do PNAE, também é dever de Estados e Municípios arcarem com a contrapartida financeira necessária para implementação da política de alimentação escolar das respectivas redes de ensino. 
   
 Paradoxalmente, o quadro de oposição entre a realidade urbana e rural se repete também na alimentação escolar. A grande sociobiodiversidade que se encontra no Estado do Acre abrange também as práticas agrícolas e extrativistas das populações tradicionais. Entretanto, tal diversidade não se reflete na composição dos cardápios da alimentação escolar. Sob a justificativa de dificuldade logística, prevalece a prática de centralização da aquisição de produtos industrializados e distribuição de enlatados da década de 30 ([CGU, 2024](https://eaud.cgu.gov.br/relatorios/download/1452828)), desatendendo os **mínimos** nutricionais estabelecidos pelo art. 18 da [Resolução FNDE nº 06/2020](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2020/resolucao-no-6-de-08-de-maio-de-2020/view).  
-
+  
 A solução lógica para a melhoria da alimentação escolar urbana e rural é a implementação da aquisição dos alimentos da agricultura familiar e promoção da descentralização logística, comprando alimentos dos agricultores próximos das escolas. Toda a moldura burocrática já foi contemplada pelo FNDE, permitindo-se o arranjo. Implementada, esta política tem o potencial de impactar positivamente tanto a qualidade global da alimentação escolar como, também, as famílias agricultoras envolvidas no processo.
-
+  
 Neste caso, o monitoramento se dá com os dados da plataforma [SigPC](https://www.gov.br/fnde/pt-br/assuntos/sistemas/sigpc-acesso-publico), verificando-se os valores destinados à aquisição de alimentos da agricultura familiar, bem como o quantitativo de compras diretas de fornecedores individuais. Diante da complexidade da execução desta política pública, a melhor intervenção da Promotoria se dá na facilitação da articulação entre os diferentes atores envolvidos.
 
 ### Transporte escolar
-Como insistentemente explicado acima, relembra-se que o Estado do Acre possui vasta extensão territorial, espaço onde se desenrola a política pública educacional. Além disso, deve-se levar em conta a diversidade geográfica onde o transporte escolar deve ser ofertado. De modo genérico, é possível iniciar a discussão contando três contextos diferentes: a zona urbana, a zona rural terrestre e a zona rural ribeirinha. O transporte escolar da zona urbana é facilitado pelo adensamento populacional e infraestrutura urbana disponível, como a presença de veículos e ruas pavimentadas. O transporte escolar da zona rural terrestre é, com maior frequência, realizado em estradas sem pavimentação que se deterioram rapidamente no período chuvoso. Por sua vez, o transporte escolar fluvial atende as escolas ribeirinhas e é prejudicado durante a estação seca, situação agravada no presente em razão da crise climática.
+Como insistentemente explicado acima, relembra-se que o Estado do Acre possui vasta extensão territorial, espaço onde se desenrola a política pública educacional. Além disso, deve-se levar em conta a diversidade geográfica onde o transporte escolar deve ser ofertado. De modo genérico, é possível iniciar a discussão contando três contextos diferentes: a zona urbana, a zona rural terrestre e a zona rural ribeirinha. O transporte escolar da zona urbana é facilitado pelo adensamento populacional e infraestrutura urbana disponível, como a presença de veículos e ruas pavimentadas, de regra. O transporte escolar da zona rural terrestre é, com maior frequência, realizado em estradas sem pavimentação que se deterioram rapidamente no período chuvoso. Por sua vez, o transporte escolar fluvial atende as escolas ribeirinhas e é prejudicado durante a estação seca, situação agravada no presente em razão da crise climática.
   
 A zona urbana possui uma melhor distribuição espacial de escolas e atende a maior parte da demanda do ensino fundamental. As escolas de ensino médio são em menor número e necessitam de um apoio maior do transporte escolar. Como se verá adiante, a evasão escolar é mais intensa no ensino médio e é preciso investigar se a deficiência de transporte escolar pode ser mais uma causa para o abandono dos estudos.  
   
@@ -112,49 +113,43 @@ A constituição de 1988 também coloca o transporte escolar como parte do direi
 
 Para receber o repasse, basta a anotação no censo escolar de que o aluno utiliza o transporte escolar. A transferência é automática. Entretanto, para atender a legislação, Estados ou Municípios devem primeiro disponibilizar o serviço, para então fazer a anotação no censo escolar e receber a suplementação ([Resolução FNDE nº 18/2021](https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2021/resolucao-no-18-de-22-de-outubro-de-2021/view). 
 
-No ensino da zona rural, enfrenta-se o mesmo problema de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas e da grande demanda, é possível a criação de um filtro arbitrário para definir a deficiência na prestação do transporte escolar na zona rural. Se houver anotação no censo escolar de que menos de 80% dos alunos matriculados em determinada escola fazem uso do transporte escolar, a situação deve ser apurada. O levantamento deste dado permite, mais uma vez, uma ação precisa das Promotorias de Justiça no endereçamento da demanda. Basta o cruzamento dos dados do censo escolar, Inep e a requisição das rotas de transporte escolar terrestres e fluviais. Na impossibilidade de solução extrajudicial, o Superior Tribunal de Justiça possui jurisprudência consolidada que estabelece como critério de razoabilidade a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino para alunos que residem a mais de 2 quilômetros de distância da escola.
-
-### Metas do PNE
-inep data não fornece detalhamento a nível de Município.
-
-[Painel de monitoramento do PNE](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/inep-data/painel-de-monitoramento-do-pne)
-
-Objeto: Monitorar o cumprimento do Plano Nacional de Educação (PNE) 2014-2024, pelos Municípios de Cruzeiro do Sul, Porto Walter e Marechal Thaumaturgo, visando promover a melhoria da qualidade da educação.
-
-Lei 13005/2014 PNE
-
-meta 01
-
-meta 02
-
-meta 03
-
-meta 04
-
-meta 05 - procurar IDEB?
-
-meta 06
-
-meta 15
-
-meta 16
-
-
-
-creche lista - Lei 14.851/2024
-
-evasão escolar:
+No ensino da zona rural, enfrenta-se o mesmo problema de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas e da grande demanda constatada em campo, é possível a criação de um filtro arbitrário para definir a deficiência na prestação do transporte escolar na zona rural. Se houver anotação no censo escolar de que menos de 80% dos alunos matriculados em determinada escola fazem uso do transporte escolar, a situação deve ser apurada. O levantamento deste dado permite, mais uma vez, uma ação precisa das Promotorias de Justiça no endereçamento da demanda. Basta o cruzamento dos dados do censo escolar, Inep e a requisição das rotas de transporte escolar terrestres e fluviais. Na impossibilidade de solução extrajudicial, o Superior Tribunal de Justiça possui jurisprudência consolidada que estabelece como critério de razoabilidade a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino para alunos que residem a mais de 2 quilômetros de distância da escola.
+  
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+   
+### Evasão Escolar
 A ação da Promotoria para o problema da evasão no ensino médio é mais complexa e necessita de aplicação de questionário específico para identificar as causas do abandono. Intuitivamente, o cruzamento do georreferenciamento das escolas com o da moradia dos alunos que concluíram o ensino fundamental e não se matricularam no ensino médio certamente demonstrará a deficiência de escolas rurais de ensino médio. Entretanto, há que se identificar se esse mesmo problema se repete na zona urbana.
 
 Pelo censo, pegar o nome dos alunos matriculados no 9º ano da zona rural e ver quantos deles foram matriculados no 1º do médio.
+  
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+  
+### Metas do Plano Nacional de Educação - PNE
+O [art. 214 da Constituição Federal](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art214.) determinou a elaboração do Plano Nacional de Educação (PNE), *com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas*. Ele foi instituído pela [Lei 13.005/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm), com vigência de dez anos.
+  
+A legislação determina que o PNE estabeleça metas e implemente seu monitoramento com base nos dados do censo escolar mais atualizado, Pesquisa Nacional por Amostra de Domicílios - PNAD e o Censo Demográfico do IBGE. Para tanto, o Ministério da Educação e Cultura (MEC) disponibiliza a plataforma [PNE em Movimento](https://pne.mec.gov.br/#onepage), onde disponibiliza os dados. O detalhamento do acompanhamento das metas chega a nível de Município, utilizando os dados da PNAD Contínua [Situação das Metas](https://simec.mec.gov.br/pde/grafico_pne.php). Sem dúvida, é uma métrica válida como indicador. Entretanto, ela é vaga e não aponta um caminho de ação para as Promotorias de Justiça. Para tanto, há a necessidade do emprego de outras métricas para uma quantificação mais precisa da performance de dada meta.
+  
+As metas selecionadas para monitoramento imediato são:
+  
+* meta 01: Educação Infantil
 
-Existe jurisprudência do STJ que estabelece a distância da moradia do aluno maior de 3 quilômetros da escola como critério para a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino. Este é o critério para o cruzamento dos dados do georreferenciamento e intervenção da Promotoria na zona urbana.  
+* meta 02: Ensino Fundamental
 
+* meta 03: Ensino Médio
+
+* meta 04: Inclusão, Ensino Especial
+
+* meta 05: Alfabetização Infantil
+
+* meta 06: Educação Integral
+
+* meta 15: Profissionais da Educação, formação
+
+* meta 16: Formação, pós-graduação
 
 ### Mapa
 
-###
-links de interesse:
+### links de interesse:
 
 https://pronacampo.mec.gov.br/acoes-do-pronacampo
 
