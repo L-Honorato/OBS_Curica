@@ -144,8 +144,7 @@ As metas selecionadas para monitoramento imediato são:
 * meta 16: Formação, pós-graduação
 
 ### Mapa
+A disponibilização da localização exata das escolas facilita o planejamento e execução de toda a política pública educacional. Por sua vez, o INEP exige o preenchimento das coordenadas geográficas das escolas no censo escolar para acesso a determinados recursos.
+Dada a grande extensão territorial do Estado do Acre e de seus Municípios, a plotagem da localização das escolas em um mapa auxilia na compreensão da dimensão do desafio e facilita o monitoramento da execução das políticas públicas.
 
-### links de interesse:
-
-https://pronacampo.mec.gov.br/acoes-do-pronacampo
-
+Entretanto, é possível observar nos dados do INEP que existem muitas escolas que não preencheram os campos de latitude e longitude exigidos. De plano, a primeira ação das Promotorias deve ser a intervenção junto às gestões educacionais, para que preencham os dados corretamente. O próximo passo é a plotagem das escolas em um mapa, fazendo uso das coordenadas geográficas.
