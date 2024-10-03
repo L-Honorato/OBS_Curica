@@ -115,14 +115,10 @@ Para receber o repasse, basta a anotação no censo escolar de que o aluno utili
 
 No ensino da zona rural, enfrenta-se o mesmo problema de agrupamento dos dados do censo escolar das escolas anexas aos dados da escola polo. Entretanto, diante da realidade das dificuldades logísticas já conhecidas e da grande demanda constatada em campo, é possível a criação de um filtro arbitrário para definir a deficiência na prestação do transporte escolar na zona rural. Se houver anotação no censo escolar de que menos de 80% dos alunos matriculados em determinada escola fazem uso do transporte escolar, a situação deve ser apurada. O levantamento deste dado permite, mais uma vez, uma ação precisa das Promotorias de Justiça no endereçamento da demanda. Basta o cruzamento dos dados do censo escolar, Inep e a requisição das rotas de transporte escolar terrestres e fluviais. Na impossibilidade de solução extrajudicial, o Superior Tribunal de Justiça possui jurisprudência consolidada que estabelece como critério de razoabilidade a obrigatoriedade de oferta de transporte escolar pelo respectivo sistema de ensino para alunos que residem a mais de 2 quilômetros de distância da escola.
   
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-   
 ### Evasão Escolar
-A ação da Promotoria para o problema da evasão no ensino médio é mais complexa e necessita de aplicação de questionário específico para identificar as causas do abandono. Intuitivamente, o cruzamento do georreferenciamento das escolas com o da moradia dos alunos que concluíram o ensino fundamental e não se matricularam no ensino médio certamente demonstrará a deficiência de escolas rurais de ensino médio. Entretanto, há que se identificar se esse mesmo problema se repete na zona urbana.
-
-Pelo censo, pegar o nome dos alunos matriculados no 9º ano da zona rural e ver quantos deles foram matriculados no 1º do médio.
+A identificação das causas da evasão escolar é uma ação mais complexa e necessita de diferentes abordagens de acordo com a etapa de ensino e sua localização. O panorama global é facilmente identificado com os dados de matrícula, por série, no censo escolar. Entretanto, há a possibilidade de cruzamento das diferentes variáveis contidas no censo escolar para o fim de identificar falhas de infraestrutura, transporte e recursos humanos que contribuem para o quadro de evasão escolar. 
   
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+Outra estratégia é utilizar os dados de acesso restrito do censo escolar para verificar se determinado aluno solicitou sua transferência e não se matriculou novamente. Essa abordagem permite uma atuação pontual, caso a caso.
   
 ### Metas do Plano Nacional de Educação - PNE
 O [art. 214 da Constituição Federal](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art214.) determinou a elaboração do Plano Nacional de Educação (PNE), *com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas*. Ele foi instituído pela [Lei 13.005/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm), com vigência de dez anos.
